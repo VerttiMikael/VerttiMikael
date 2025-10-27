@@ -5,7 +5,7 @@
 - Location: Finland
 - Field of Study: Information Technology
 - University: Tampere University, 3rd year
-- Technical Skills: C++, Python, SQL, MATLAB, Git, PowerBi, Terraform, Ansible, Docker
+- Technical Skills: C++, Python, SQL, React, Git, PowerBi, Terraform, Ansible, Docker
 - LinkedIn Profile: www.linkedin.com/in/vertti-leppikangas
 
 
